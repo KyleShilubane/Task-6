@@ -1,0 +1,39 @@
+form{
+    margin: 0px auto;
+    border: 2px solid gray;
+    background-color: gray;
+    border-radius: 25px;
+    text-align: center;
+    width: 25%;
+    margin-top: 50px;
+    height: 200px;
+}
+
+#fname, #lname, #email, #password{
+   background-color: coral;
+   border-radius: 25px;
+   color: white; 
+}
+
+#button{
+    background-color: coral;
+    border-radius: 25px;
+    color: white;
+    border: none; 
+    width: 100px;
+    height: 20px;
+}
+
+#button:hover{
+    background-color: #b63101;
+    border-radius: 25px;
+    color: white;
+    border: none; 
+    width: 100px;
+    height: 20px;
+}
+
+label{
+    color: black;
+}
+
